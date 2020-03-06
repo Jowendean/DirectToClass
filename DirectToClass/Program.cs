@@ -11,7 +11,7 @@ namespace DirectToClass
         static void Main(string[] args)
         {
             List<Person> p1 = new List<Person>();
-
+            // test change
             Person p2 = new Person { id = 101, firstName = "Jordan" };
             Person p3 = new Person { id = 101, firstName = "Paul" };
             Person p4 = new Person { id = 101, firstName = "Zack" };
